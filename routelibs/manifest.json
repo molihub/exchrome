@@ -1,0 +1,14 @@
+{
+  "name": "routelibs",
+  "version": "1.0",
+  "description": "route to libs forbidden by some reason!",
+  "permissions": ["webRequest", "webRequestBlocking",
+                  "https://mxnet.apache.org/*",
+				  "https://ajax.googleapis.com/*"
+				 ],
+  "background": {
+    "scripts": ["libs.js", "background.js"]
+  },
+
+  "manifest_version": 2
+}
