@@ -1,6 +1,6 @@
 # exchrome
 
-A chrome extenstions, to route some unreachable libs to their reachable urls.
+A chrome extenstion, to route some unreachable libs to their reachable urls.
 
 ## install
 
